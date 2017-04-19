@@ -1,6 +1,6 @@
 # npmtest-gulp-twig
 
-#### test coverage for  [gulp-twig (v0.7.0)](http://github.com/zimmen/gulp-twig)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-twig.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-twig) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-twig.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-twig)
+#### basic test coverage for  [gulp-twig (v0.7.0)](http://github.com/zimmen/gulp-twig)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-twig.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-twig) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-twig.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-twig)
 
 #### Twig.js plugin for gulp.js (gulpjs.com)
 
